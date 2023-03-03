@@ -1065,13 +1065,13 @@ a:hover {
   margin-top: 4rem;
 }
 
-body{
+/* body{
     margin-top:20px;
     background:#eee;
-}
+} */
 .gradient-brand-color {
-    background-image: -webkit-linear-gradient(0deg, #376be6 0%, #6470ef 100%);
-    background-image: -ms-linear-gradient(0deg, #376be6 0%, #6470ef 100%);
+/*     background-image: -webkit-linear-gradient(0deg, #376be6 0%, #6470ef 100%);
+    background-image: -ms-linear-gradient(0deg, #376be6 0%, #6470ef 100%); */
     color: #fff;
 }
 .contact-info__wrapper {
